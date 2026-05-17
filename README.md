@@ -4,7 +4,7 @@ README.md:
 Personal portfolio website showcasing my professional experience, technical skills, projects, and qualifications as a Data Scientist, ML Engineer, and M&E Specialist based in Malawi.
 
 ## 🌐 Live Site
-[https://yourusername.github.io](https://yourusername.github.io)
+[https://zambica.github.io](https://yourusername.github.io)
 
 ## ✨ Features
 - Animated hero section with orbital rings and floating particles
